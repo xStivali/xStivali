@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Matheus Stivali</h1>
+<h1 align="center">👋 Olá! Sou o Matheus Stivali</h1>
 
 <p align="center">
 💻 Desenvolvedor de Software <br>
