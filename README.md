@@ -19,17 +19,6 @@
 
 ---
 
-# 📈 Atividade no GitHub
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xStivali&theme=tokyo-night&area=true&hide_border=true"/>
-
-</p>
-
-
-
----
 
 # 🐍 Contribuições
 
@@ -41,5 +30,15 @@
 </picture>
 </p>
 
+
+---
+
+# 📈 Atividade no GitHub
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xStivali&theme=tokyo-night&area=true&hide_border=true"/>
+
+</p>
 
 
