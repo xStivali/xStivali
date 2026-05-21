@@ -6,7 +6,7 @@
 
 ---
 
-#Tecnologias
+# Tecnologias
 
 <p align="center">
 
@@ -20,7 +20,7 @@
 ---
 
 
-#Contribuições
+# Contribuições
 
 <p align="center">
 <picture>
