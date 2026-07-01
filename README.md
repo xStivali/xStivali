@@ -1,7 +1,6 @@
 <p align="center">
 💻 Desenvolvedor de Software <br>
 📊 Dados & Business Intelligence <br>
-🚀 Apaixonado por tecnologia e análise de dados
 </p>
 
 ---
