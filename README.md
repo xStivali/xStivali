@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,git,mysql,postgres,react,next" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,git,mysql,postgres,react,next,redis" />
 
 
 <img height="45" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
