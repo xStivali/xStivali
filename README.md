@@ -1,6 +1,5 @@
 <p align="center">
-💻 Desenvolvedor de Software <br>
-📊 Dados & Business Intelligence <br>
+💻 Desenvolvedor de Software com foco em Análise de Dados
 </p>
 
 ---
